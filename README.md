@@ -15,9 +15,8 @@ I hope to be like Guō Táimíng in the future, so I made this Line bot to help 
 Line Bot Introduction
 ---
 ### Basic information
-Line Bot name: 大賭郭台銘
-Line Bot ID:@945eenxd
-
+- Line Bot name: 大賭郭台銘
+- Line Bot ID:@945eenxd
 ![profile](https://i.imgur.com/NlTiLER.jpg)
 
 ### Features
