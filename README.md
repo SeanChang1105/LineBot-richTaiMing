@@ -32,6 +32,7 @@ Line Bot ID:@945eenxd
 
 #### Football matches
 ![](https://i.imgur.com/mfnvYp2.png)
+
 Choose "confirm" to continue, or choose "back" to go back to the menu.
 Choose the desired league from:
 1. Premier League(英超)
@@ -42,16 +43,20 @@ Choose the desired league from:
 (The Line button can only have four options, sorry to all the Bundesliga fans :cry: )
 
 ![](https://i.imgur.com/NTtba66.png)
+
 After choosing the desired league, hit confirm to see the upcoming coming matches within 3 match days.
 
 #### Lottery stations
 ![](https://i.imgur.com/R0KsUKL.png)
+
 Hit "confirm" to continue or "back" to gack to the menu.
 
 ![](https://i.imgur.com/yWNSHkC.png)
+
 Enter location name and search radius.
 
 ![](https://i.imgur.com/L2TL4Ls.png)
+
 All lottery staions in the radius will be printed (in the form of Google Maps URL) and sorted by ratings (Highest first).
 
 FSM Structure
