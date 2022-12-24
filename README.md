@@ -1,4 +1,4 @@
-LineBot-richTaiMing :soccer: :robot_face: :money_with_wings:
+LineBot-richTaiMing :soccer: 🤖 :money_with_wings:
 ===
 2022 Fall Theory of computation final project by F74096352 張育維
 
