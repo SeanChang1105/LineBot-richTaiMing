@@ -349,7 +349,7 @@ class TocMachine(GraphMachine):
     
     # input location
     def on_enter_input_location(self,event):
-        send_text_message(event.reply_token, 'Enter your location name: (Ex.國立成功大學)')
+        send_text_message(event.reply_token, 'Enter your location name: \n(Ex.國立成功大學)')
 
     def is_going_to_input_radius(self,event):
         text = event.message.text
@@ -361,7 +361,7 @@ class TocMachine(GraphMachine):
 
     # input radius
     def on_enter_input_radius(self,event):
-        send_text_message(event.reply_token, 'Enter radius in meters \n ex.1000')
+        send_text_message(event.reply_token, 'Enter radius in meters: \nex.1000')
 
     def is_going_to_show_stations(self,event):
         global radius
@@ -398,7 +398,7 @@ class TocMachine(GraphMachine):
                 output=''
                 for i in df['url']:
                     output+=i+'\n'
-                send_text_message(event.reply_token, 'showing nearby lottery stations"\n'+output)
+                send_text_message(event.reply_token, 'showing nearby lottery stations:\n'+output)
             else:
                 send_text_message(event.reply_token, 'No match found!')
             
